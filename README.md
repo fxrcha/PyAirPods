@@ -42,11 +42,9 @@
 ```powershell
 git clone https://github.com/fxrcha/PyAirPods
 
-cd Siri
+cd PyAirPods
 
 python3 -m pip install -r requirements.txt
-
-python3 -m Siri
 ```
 
 #### macOS
@@ -54,11 +52,9 @@ python3 -m Siri
 ```zsh
 git clone https://github.com/fxrcha/PyAirPods
 
-cd Siri
+cd PyAirPods
 
 python3 -m pip install -r requirements.txt
-
-python3 -m Siri
 ```
 
 #### Linux
@@ -66,11 +62,9 @@ python3 -m Siri
 ```bash
 git clone https://github.com/fxrcha/PyAirPods
 
-cd Siri
+cd PyAirPods
 
 python3 -m pip install -r requirements.txt
-
-python3 -m Siri
 ```
 
 ## Credits
